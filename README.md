@@ -23,7 +23,7 @@ Cybersecurity specialist working on both sides: I attack lab environments to und
 - **3 years of IDF service**: operational case management, SAP ERP, CRM ticketing and triage under strict deadlines
 - Hands-on with **Splunk** and **IBM QRadar** for alert triage, log investigation and incident response
 - Lab work across **Active Directory** (Windows Server 2022), **FortiGate NGFW** and enterprise networking
-- Currently preparing for **HTB CPTS**, **HTB CWES**, **eJPT** and **CompTIA Security+**
+- Currently preparing for **HTB CPTS**, **HTB CWES** and **eJPT**
 
 **Open to Junior SOC Analyst and Junior Penetration Tester roles.**
 
@@ -129,7 +129,6 @@ A free, open-source tracker for Hack The Box and TryHackMe. Track every machine 
 | HTB Certified Penetration Testing Specialist (CPTS) | Hack The Box | In progress |
 | HTB Certified Web Exploitation Specialist (CWES) | Hack The Box | In progress |
 | eLearnSecurity Junior Penetration Tester (eJPT) | INE Security | In progress |
-| CompTIA Security+ (SY0-701) | CompTIA | In progress |
 
 ---
 
