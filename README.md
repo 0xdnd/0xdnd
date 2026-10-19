@@ -1,65 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E58D&center=true&vCenter=true&width=620&lines=%3E_+Daniel+Dayan;Junior+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Junior+Penetration+Tester+%E2%9A%94%EF%B8%8F;I+break+it%2C+then+I+detect+it." alt="Daniel Dayan — Junior SOC Analyst & Junior Penetration Tester" />
+# Daniel Dayan
 
-**Blue Team & Red Team · Threat Detection · Offensive Security**
+**Junior SOC Analyst · Junior Penetration Tester**
+
+Threat detection, security operations and offensive security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0xdnd.github.io-00e58d?style=for-the-badge&logo=googlechrome&logoColor=black)](https://0xdnd.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dayan-a66322352/)
 [![Write-ups](https://img.shields.io/badge/Write--ups-GitBook-38bdf8?style=for-the-badge&logo=gitbook&logoColor=white)](https://0xdnd.gitbook.io/thm-writeups/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://0xdnd.github.io/resume.pdf)
 
-![Open to work](https://img.shields.io/badge/STATUS-Open_to_Junior_SOC_%26_Junior_Pentester_roles-00e58d?style=flat-square)
-
 </div>
 
 ---
 
-## `>_ whoami`
+## About
 
-```yaml
-name:       Daniel Dayan
-location:   Israel 🇮🇱
-roles:      [Junior SOC Analyst, Junior Penetration Tester]
-mindset:    "Know how the attack works → know how to catch it"
-training:   650h Cybersecurity & Infrastructure program (Israel MoD · Cisco & Fortinet)
-ranking:    Top 5% — Hack The Box Academy
-service:    3 years IDF — case management, SAP ERP, CRM ticketing, triage under pressure
-studying:   [eJPT, CompTIA Security+]
-```
+Cybersecurity specialist working on both sides: I attack lab environments to understand how adversaries operate, then build the detections that catch them.
 
-I work both sides of the wire: I attack lab environments to understand **how adversaries move**, then build the **detections that catch them** in Splunk and QRadar.
+- **650-hour hands-on Cybersecurity & Infrastructure program**, sponsored by the Israel Ministry of Defense (Cisco & Fortinet specialization)
+- **3 years of IDF service**: operational case management, SAP ERP, CRM ticketing and triage under strict deadlines
+- Hands-on with **Splunk** and **IBM QRadar** for alert triage, log investigation and incident response
+- Lab work across **Active Directory** (Windows Server 2022), **FortiGate NGFW** and enterprise networking
+- Currently preparing for **eJPT** and **CompTIA Security+**
+
+**Open to Junior SOC Analyst and Junior Penetration Tester roles.**
 
 ---
 
-## `>_ ⚔️ Red Team` &nbsp;·&nbsp; `🛡️ Blue Team`
+## Focus areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚔️ Offensive / Pentest
+### Offensive Security
 
-- Network recon & enumeration (Nmap, ffuf)
-- Web app testing — OWASP Top 10, SQLi, LFI, BOLA/IDOR
-- Active Directory attacks — Kerberoasting, AS-REP roasting
-- Exploitation & post-exploitation (Metasploit)
-- Password attacks (Hashcat, Hydra)
-- Linux & Windows privilege escalation
-- HTB & TryHackMe machines + write-ups
+- Network reconnaissance and enumeration
+- Web application testing: OWASP Top 10, SQLi, LFI, IDOR/BOLA
+- Active Directory attacks: Kerberoasting, AS-REP roasting
+- Exploitation and post-exploitation
+- Linux and Windows privilege escalation
+- Password attacks and hash cracking
+- Hack The Box and TryHackMe labs, documented in write-ups
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Defensive / SOC
+### Security Operations
 
-- Alert triage & log investigation
-- SIEM: Splunk (SPL) & IBM QRadar (AQL)
-- Detection engineering with Sysmon → Splunk
-- MITRE ATT&CK mapping (T1558, T1003)
-- Incident response playbooks for Tier-1
-- FortiGate NGFW policies & VPN/IPsec
-- Active Directory administration (Win Server 2022)
+- Alert triage and log investigation
+- SIEM: Splunk (SPL) and IBM QRadar (AQL)
+- Detection engineering with Sysmon and Splunk
+- MITRE ATT&CK mapping
+- Incident response and Tier-1 triage playbooks
+- FortiGate NGFW policies and VPN/IPsec
+- Active Directory administration
 
 </td>
 </tr>
@@ -67,13 +64,13 @@ I work both sides of the wire: I attack lab environments to understand **how adv
 
 ---
 
-## `>_ Featured project`
+## Featured project
 
-### ⚡ [ZeroBox — CTF Tracker](https://github.com/0xdnd/ctf-tracker)
+### [ZeroBox — CTF Tracker](https://github.com/0xdnd/ctf-tracker)
 
-A free, open-source tracker for **Hack The Box** and **TryHackMe**: track every box from recon to root, keep notes and loot in one place, and generate **130+ reverse shells** in one click. No signup, no backend — runs in the browser or as a desktop app.
+A free, open-source tracker for Hack The Box and TryHackMe. Track every machine from recon to root, keep notes and loot in one place, and generate reverse shells for 130+ scenarios. No signup and no backend; it runs in the browser or as a desktop app.
 
-[![Live](https://img.shields.io/badge/%E2%96%B6_Try_it-ctftracker.com-10B981?style=flat-square)](https://ctftracker.com/)
+[![Live](https://img.shields.io/badge/Live-ctftracker.com-10B981?style=flat-square)](https://ctftracker.com/)
 [![Repo](https://img.shields.io/badge/Repo-0xdnd%2Fctf--tracker-181717?style=flat-square&logo=github)](https://github.com/0xdnd/ctf-tracker)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -81,28 +78,29 @@ A free, open-source tracker for **Hack The Box** and **TryHackMe**: track every 
 
 ---
 
-## `>_ Toolbox`
+## Skills
 
-**Offensive**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-059669?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-059669?style=flat-square&logo=metasploit&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-059669?style=flat-square&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-059669?style=flat-square)
-![ffuf](https://img.shields.io/badge/ffuf-059669?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-059669?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-059669?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-**Defensive**
+**SOC / Blue Team**
 
 ![Splunk](https://img.shields.io/badge/Splunk-0284c7?style=flat-square&logo=splunk&logoColor=white)
 ![Splunk SOAR](https://img.shields.io/badge/Splunk_SOAR-0284c7?style=flat-square&logo=splunk&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-0284c7?style=flat-square&logo=ibm&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0284c7?style=flat-square&logo=windows&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0284c7?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0284c7?style=flat-square)
+
+**Offensive Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-059669?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-059669?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-059669?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-059669?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-059669?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-059669?style=flat-square&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-059669?style=flat-square)
+![ffuf](https://img.shields.io/badge/ffuf-059669?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-059669?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-059669?style=flat-square)
 
 **Infrastructure**
 
@@ -123,34 +121,31 @@ A free, open-source tracker for **Hack The Box** and **TryHackMe**: track every 
 
 ---
 
-## `>_ Certifications & training`
+## Certifications & training
 
-| Status | Certification / Program |
-|:------:|:------------------------|
-| ✅ | **ITQ Cybersecurity & Infrastructure** — 650h, sponsored by Israel MoD (Cisco & Fortinet) |
-| ✅ | **Hack The Box Academy** — Top 5% globally |
-| 🔄 | **eJPT** — eLearnSecurity Junior Penetration Tester (INE) |
-| 🔄 | **CompTIA Security+** (SY0-701) |
+| Certification / Program | Issuer | Status |
+|:------------------------|:-------|:-------|
+| Cybersecurity & Infrastructure Program (650 hours) | ITQ · Israel Ministry of Defense | Completed |
+| eLearnSecurity Junior Penetration Tester (eJPT) | INE Security | In progress |
+| CompTIA Security+ (SY0-701) | CompTIA | In progress |
+
+---
+
+## Write-ups
+
+- [THM "Support": BOLA, cookie forgery and LFI escalation](https://0xdnd.github.io/#writeups)
+- [Deconstructing Kerberoasting: from SPN request to hash extraction in Splunk](https://0xdnd.github.io/#writeups)
+- [Building a low-cost enterprise detection lab with Proxmox and Sysmon](https://0xdnd.github.io/#writeups)
+- [All TryHackMe write-ups on GitBook](https://0xdnd.gitbook.io/thm-writeups/)
 
 ---
 
-## `>_ Latest write-ups`
-
-- 🔓 [THM "Support" — BOLA, cookie forgery & LFI escalation](https://0xdnd.github.io/#writeups)
-- 🎯 [Deconstructing Kerberoasting: from SPN request to hash extraction in Splunk](https://0xdnd.github.io/#writeups)
-- 🧪 [Building a low-cost detection lab with Proxmox & Sysmon](https://0xdnd.github.io/#writeups)
-- 📚 [All TryHackMe write-ups on GitBook →](https://0xdnd.gitbook.io/thm-writeups/)
-
----
+## Contact
 
 <div align="center">
 
-### `>_ Let's connect`
-
-Hiring for a **Junior SOC Analyst** or **Junior Penetration Tester**? I'd love to talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dayan-a66322352/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e58d?style=for-the-badge&logo=googlechrome&logoColor=black)](https://0xdnd.github.io/#contact)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/0xdnd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dayan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dayan-a66322352/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xdnd.github.io-00e58d?style=flat-square&logo=googlechrome&logoColor=black)](https://0xdnd.github.io/#contact)
+[![GitHub](https://img.shields.io/badge/GitHub-@0xdnd-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xdnd)
 
 </div>
