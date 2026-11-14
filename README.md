@@ -21,8 +21,8 @@ Threat detection, security operations and offensive security
 
 <div align="center">
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdnd&show_icons=true&theme=dark&bg_color=040a15&title_color=8db4e2&text_color=c3d0e0&icon_color=8db4e2&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdnd&layout=compact&theme=dark&bg_color=040a15&title_color=8db4e2&text_color=c3d0e0&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xdnd&theme=dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdnd&theme=dark)
 
 </div>
 
