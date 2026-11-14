@@ -11,6 +11,19 @@ Threat detection, security operations and offensive security
 [![Write-ups](https://img.shields.io/badge/Write--ups-GitBook-38bdf8?style=for-the-badge&logo=gitbook&logoColor=white)](https://0xdnd.gitbook.io/thm-writeups/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://0xdnd.github.io/resume.pdf)
 
+**Open to junior SOC Analyst and junior Penetration Tester roles in Israel — central Israel, available immediately.**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdnd&show_icons=true&theme=dark&bg_color=040a15&title_color=8db4e2&text_color=c3d0e0&icon_color=8db4e2&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdnd&layout=compact&theme=dark&bg_color=040a15&title_color=8db4e2&text_color=c3d0e0&hide_border=true)
+
 </div>
 
 ---
@@ -24,8 +37,6 @@ Cybersecurity specialist working on both sides: I attack lab environments to und
 - Hands-on with **Splunk** and **IBM QRadar** for alert triage, log investigation and incident response
 - Lab work across **Active Directory** (Windows Server 2022), **FortiGate NGFW** and enterprise networking
 - Currently preparing for **HTB CPTS**, **HTB CWES** and **eJPT**
-
-**Open to Junior SOC Analyst and Junior Penetration Tester roles.**
 
 ---
 
@@ -64,17 +75,26 @@ Cybersecurity specialist working on both sides: I attack lab environments to und
 
 ---
 
-## Featured project
+## Featured projects
 
 ### [ZeroBox — CTF Tracker](https://github.com/0xdnd/ctf-tracker)
 
 A free, open-source tracker for Hack The Box and TryHackMe. Track every machine from recon to root, keep notes and loot in one place, and generate reverse shells for 130+ scenarios. No signup and no backend; it runs in the browser or as a desktop app.
+
+⭐ **45 stars · 4 forks · 8 releases (latest v2.5.5)** — **14,000+ unique visitors, 30,000+ page views, 109,000+ requests** since launch on 7 Oct 2026.
 
 [![Live](https://img.shields.io/badge/Live-ctftracker.com-10B981?style=flat-square)](https://ctftracker.com/)
 [![Repo](https://img.shields.io/badge/Repo-0xdnd%2Fctf--tracker-181717?style=flat-square&logo=github)](https://github.com/0xdnd/ctf-tracker)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+### [Cybersecurity Student Portfolio](https://0xdnd.github.io/)
+
+My portfolio site: SOC and penetration-testing work, the ZeroBox project, the Active Directory home lab (Kerberoasting, BloodHound), CTF machines with a SOC detection angle for each attack, and the experience timeline.
+
+[![Live](https://img.shields.io/badge/Live-0xdnd.github.io-00e58d?style=flat-square&logo=googlechrome&logoColor=black)](https://0xdnd.github.io)
+[![Repo](https://img.shields.io/badge/Repo-0xdnd%2F0xdnd.github.io-181717?style=flat-square&logo=github)](https://github.com/0xdnd/0xdnd.github.io)
 
 ---
 
