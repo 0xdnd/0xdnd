@@ -8,7 +8,8 @@ Threat detection, security operations and offensive security
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0xdnd.github.io-00e58d?style=for-the-badge&logo=googlechrome&logoColor=black)](https://0xdnd.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dayan-a66322352/)
-[![Write-ups](https://img.shields.io/badge/Write--ups-GitBook-38bdf8?style=for-the-badge&logo=gitbook&logoColor=white)](https://0xdnd.gitbook.io/thm-writeups/)
+[![ZeroBox](https://img.shields.io/badge/ZeroBox-ctftracker.com-10B981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://ctftracker.com/)
+[![Write-ups](https://img.shields.io/badge/Attack_Paths-ctftracker.com-38bdf8?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctftracker.com/machines/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://0xdnd.github.io/resume.pdf)
 
 **Open to junior SOC Analyst and junior Penetration Tester roles in Israel — central Israel, available immediately.**
@@ -79,9 +80,9 @@ Cybersecurity specialist working on both sides: I attack lab environments to und
 
 ### [ZeroBox — CTF Tracker](https://github.com/0xdnd/ctf-tracker)
 
-A free, open-source tracker for Hack The Box and TryHackMe. Track every machine from recon to root, keep notes and loot in one place, and generate reverse shells for 130+ scenarios. No signup and no backend; it runs in the browser or as a desktop app.
+A free, source-available (ZNSL 1.0) offline CTF tracker and 7-track exam simulator for Hack The Box, TryHackMe, OffSec Proving Grounds, and VulnHub (2,186 machines + 131 reverse shells). Track every machine from recon to root, use the [TJ Null OSCP list](https://ctftracker.com/tj-null-list/) and [OSCP points calculator](https://ctftracker.com/oscp-points-calculator/), and keep notes and loot privately in your browser or desktop app.
 
-⭐ **45 stars · 4 forks · 8 releases (latest v2.5.5)** — **14,000+ unique visitors, 30,000+ page views, 109,000+ requests** since launch on 7 Oct 2026.
+[![GitHub Stars](https://img.shields.io/github/stars/0xdnd/ctf-tracker?style=flat-square&logo=github&color=F59E0B)](https://github.com/0xdnd/ctf-tracker/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/0xdnd/ctf-tracker?style=flat-square&logo=github&color=38bdf8)](https://github.com/0xdnd/ctf-tracker/network/members) [![Latest Release](https://img.shields.io/github/v/release/0xdnd/ctf-tracker?style=flat-square&logo=github&color=10B981)](https://github.com/0xdnd/ctf-tracker/releases/latest)
 
 [![Live](https://img.shields.io/badge/Live-ctftracker.com-10B981?style=flat-square)](https://ctftracker.com/)
 [![Repo](https://img.shields.io/badge/Repo-0xdnd%2Fctf--tracker-181717?style=flat-square&logo=github)](https://github.com/0xdnd/ctf-tracker)
@@ -157,7 +158,7 @@ My portfolio site: SOC and penetration-testing work, the ZeroBox project, the Ac
 - [THM "Support": BOLA, cookie forgery and LFI escalation](https://0xdnd.github.io/#writeups)
 - [Deconstructing Kerberoasting: from SPN request to hash extraction in Splunk](https://0xdnd.github.io/#writeups)
 - [Building a low-cost enterprise detection lab with Proxmox and Sysmon](https://0xdnd.github.io/#writeups)
-- [All TryHackMe write-ups on GitBook](https://0xdnd.gitbook.io/thm-writeups/)
+- [HTB & TryHackMe machine attack paths on ZeroBox](https://ctftracker.com/machines/)
 
 ---
 
